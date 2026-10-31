@@ -68,3 +68,45 @@ Run one Streamlit process per database. This is a local single-user demo, withou
 Two-speaker diarization is requested; labels do not identify people or assign customer/agent roles. English uses `en-IN` and Hindi `hi-IN`. Evidence validation checks that referenced segments exist; human review must establish factual support. Summary input is bounded by serialized character count, not an exact token budget. Oversized inputs are rejected rather than split or truncated.
 
 Credentials, recordings, runtime databases and generated exports are ignored by Git. No Azure resources were provisioned. Live setup and quality gates remain open until configured resources and representative recordings are available.
+---
+
+## Team & Contributions
+
+Call Insights was developed collaboratively by a team of four members, with equal contributions towards the overall project.
+
+The team collectively participated in project planning, task distribution, AI-assisted implementation, testing, debugging, and iterative refinement.
+
+### Team Members
+
+- **Bhumika**
+- **Anshika**
+- **Mudita**
+- **Navya**
+
+## AI-Assisted Development Workflow
+
+AI-assisted development was an integral part of our project development approach. We used AI tools to support planning, implementation, problem-solving, and refinement throughout the development lifecycle.
+
+Our workflow included:
+
+- **Requirement Analysis:** Breaking the project requirements into manageable development phases.
+- **Task Decomposition:** Organizing development activities into smaller, clearly defined tasks.
+- **Role-Based Delegation:** Using specialized role assignments such as `developer-2`, `ai-expert`, and `code-reviewer` to organize responsibilities.
+- **Issue-Driven Development:** Managing tasks through GitHub Issues with priorities, labels, milestones, and dependencies.
+- **AI-Assisted Implementation:** Using AI assistance for code development, debugging, and technical problem-solving.
+- **Testing & Validation:** Running automated tests, reviewing implementation, and refining features.
+
+## Development History & Collaboration
+
+The original team repository preserves the actual GitHub development history and project-management activity.
+
+Explore the original development records:
+
+- [Original Team Repository](https://github.com/anshika6252/call-insights-foundry-demo)
+- [GitHub Issues & Task Assignments](https://github.com/anshika6252/call-insights-foundry-demo/issues)
+- [Pull Requests & Reviews](https://github.com/anshika6252/call-insights-foundry-demo/pulls)
+- [Project Milestones](https://github.com/anshika6252/call-insights-foundry-demo/milestones)
+- [Commit History](https://github.com/anshika6252/call-insights-foundry-demo/commits/main)
+
+*This repository is a fork of the original collaborative project. The original repository remains the source of truth for the team's issues, assignments, pull requests, and recorded development history.*
+
